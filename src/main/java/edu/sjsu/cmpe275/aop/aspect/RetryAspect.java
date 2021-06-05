@@ -1,5 +1,3 @@
-package edu.sjsu.cmpe275.aop.aspect;
-
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Aspect;
 import org.springframework.core.annotation.Order;
