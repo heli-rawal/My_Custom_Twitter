@@ -1,4 +1,3 @@
-package edu.sjsu.cmpe275.aop;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
